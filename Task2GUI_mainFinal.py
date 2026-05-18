@@ -10,7 +10,7 @@ import itertools
 from pyqtgraph import PlotWidget
 from Task2GUI_composerFinal import Ui_Form
 from PyQt5 import QtCore, QtGui, QtWidgets
-from Task2GUI_composerFinal import Ui_Form
+from Signal Sampling & Reconstruction Studio-RUN-Composer import Ui_Form
 import pyqtgraph.exporters
 from fpdf import FPDF
 import statistics
